@@ -34,7 +34,7 @@ function CarouselLanding() {
       <Carousel.Item>
         <img className="d-block w-100" src={pic3} alt="Third slide" />
         <Carousel.Caption>
-          <h3>Basreng Bomb</h3>
+          <h3>Chewsy Ball</h3>
           <p>
             Praesent commodo cursus magna, vel scelerisque nisl consectetur.
           </p>
@@ -43,7 +43,7 @@ function CarouselLanding() {
       <Carousel.Item>
         <img className="d-block w-100" src={pic4} alt="Third slide" />
         <Carousel.Caption>
-          <h3>Chewsy Ball</h3>
+          <h3>Basreng Bomb</h3>
           <p>
             Praesent commodo cursus magna, vel scelerisque nisl consectetur.
           </p>
